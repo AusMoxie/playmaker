@@ -1,6 +1,6 @@
 # Playmaker
 
-**Playmaker** （https://wangxung815.github.io/playmaker）is a lightweight but professional and comprehensive project management and budget planning tool designed for teams that need clarity without unnecessary complexity.
+**Playmaker** “https://wangxung815.github.io/playmaker” is a lightweight but professional and comprehensive project management and budget planning tool designed for teams that need clarity without unnecessary complexity.
 
 This tool was built from years of hands-on project management experience across multi-project environments. The goal is simple: help mid-sized teams plan work, manage capacity, track tasks, monitor budgets, and understand delivery risk in one practical workspace.
 
