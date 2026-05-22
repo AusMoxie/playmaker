@@ -1,6 +1,6 @@
 # Playmaker
 
-**Playmaker** https://wangxung815.github.io/playmaker is a lightweight but professional and comprehensive project management and budget planning tool designed for teams that need clarity without unnecessary complexity.
+**Playmaker** https://auxmoxie.github.io/playmaker is a lightweight but professional and comprehensive project management and budget planning tool designed for teams that need clarity without unnecessary complexity.
 
 This tool was built from years of hands-on project management experience across multi-project environments. The goal is simple: help mid-sized teams plan work, manage capacity, track tasks, monitor budgets, and understand delivery risk in one practical workspace.
 
@@ -60,16 +60,12 @@ For the best experience, use a modern Chromium-based browser such as Chrome or E
 
 You can use the hosted version here:
 
-https://wangxung815.github.io/playmaker/
+https://ausmoxie.github.io/playmaker/
 
 ## Support and Customization
 
 Playmaker is built to make project planning feel lighter, clearer, and more useful for real teams. If you find it helpful, you are very welcome to use it, share it, and provide feedback.
 
-If you like the tool and would like to support its continued improvement, donations are welcome:
-
-https://buymeacoffee.com/wangxung819
+If you like the tool and would like to support its continued improvement, donations are welcome (link is in the website)
 
 If your team needs customization, workflow adjustments, or a tailored version of Playmaker, please contact the author:
-
-wangxung815@gmail.com
